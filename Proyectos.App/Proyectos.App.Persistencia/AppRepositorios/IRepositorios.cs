@@ -19,14 +19,6 @@ namespace Proyectos.App.Persistencia.AppRepositorios
         Entrenador UpdateEntrenador(Entrenador entrenador);
         void DeleteEntrenador(int idEntrenador); 
 
-        
-        //contratos o firmas para los metodos Usuario        
-        Usuario AddUsuario(Usuario usuario);
-        IEnumerable<Usuario> GetAllUsuarios(string? searchString);         
-        Usuario GetUsuario(int? idUsuario);
-        Usuario UpdateUsuario(Usuario usuario);
-        void DeleteUsuario(int idUsuario); 
-
     } //fin IRepositorios
 }
 

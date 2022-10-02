@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Proyectos.App.Dominio.Entidades;
 using Proyectos.App.Persistencia.AppRepositorios;
 using Proyectos.App.Persistencia;
+using Proyectos.App.Dominio;
 
 namespace Proyectos.App.Presentacion.Entrenadores
 {

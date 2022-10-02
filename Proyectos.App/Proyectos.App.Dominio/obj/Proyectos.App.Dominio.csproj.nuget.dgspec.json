@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nueva carpeta\\equipo-84-xx-main(1)\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\Proyectos.App.Dominio.csproj": {}
+    "C:\\Users\\Rafael\\Documents\\Proyecto-GYM-main\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\Proyectos.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Nueva carpeta\\equipo-84-xx-main(1)\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\Proyectos.App.Dominio.csproj": {
+    "C:\\Users\\Rafael\\Documents\\Proyecto-GYM-main\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\Proyectos.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nueva carpeta\\equipo-84-xx-main(1)\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\Proyectos.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Proyecto-GYM-main\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\Proyectos.App.Dominio.csproj",
         "projectName": "Proyectos.App.Dominio",
-        "projectPath": "C:\\Nueva carpeta\\equipo-84-xx-main(1)\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\Proyectos.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\Rafael\\Documents\\Proyecto-GYM-main\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\Proyectos.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Nueva carpeta\\equipo-84-xx-main(1)\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Rafael\\Documents\\Proyecto-GYM-main\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"

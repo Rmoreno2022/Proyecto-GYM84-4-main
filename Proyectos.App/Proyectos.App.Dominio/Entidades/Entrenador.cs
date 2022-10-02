@@ -4,7 +4,7 @@ namespace Proyectos.App.Dominio.Entidades
 {
     public class Entrenador
     {
-        //atributos de la clase formador
+        //atributos de la clase entrenador
         [Key]
         [Display(Name = "ID")]
         public int id { get; set; }
@@ -12,9 +12,15 @@ namespace Proyectos.App.Dominio.Entidades
         [Display(Name = "Nro. Identificación")]
         public string identificacion{ get; set; }
         [Required]        
-        [Display(Name = "Nombre del Entrenador")]
+        [Display(Name = "Nombre Del Entrenador")]
         public string nombre{ get; set; }
-        [Required]        
+        [Required]   
+        [Display(Name = "Apellido Del Entrenador")]
+        public string apellido{ get; set; }
+        [Required]
+        [Display(Name = "Edad")]
+        public string edad{ get; set; }
+        [Required]      
         [Display(Name = "Correo Electrónico")]
         public string mail{ get; set; }
         [Required]        

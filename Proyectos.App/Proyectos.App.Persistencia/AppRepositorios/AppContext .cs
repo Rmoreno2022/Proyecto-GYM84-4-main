@@ -14,14 +14,9 @@ namespace Proyectos.App.Persistencia
         //poner aqui los modelos
         public DbSet<Entrenador> entrenador{get; set;}
         
-        public DbSet<Usuario> usuario{get; set;}
-        
-
-
-        //crear el deContext
+                //crear el deContext
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            
             if (!optionsBuilder.IsConfigured)
             {
             optionsBuilder

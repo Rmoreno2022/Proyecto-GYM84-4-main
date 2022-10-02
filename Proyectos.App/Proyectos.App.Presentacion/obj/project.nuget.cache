@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E+gJ+iapsc01jnDFVOiVfJH7ylScbbfO3rV3yTTywHPGfXZI0WQaYIc7H58hMP1itAXJXD13Yp42wOzGhDxCnQ==",
+  "dgSpecHash": "0JDM9CjLITb3EIQgk6XpSwrz/ksgPlziAXNusStE9wkIQhzQstYrx75f34XqPgUjnWD+HRqop5TpZzvwIHMgug==",
   "success": true,
-  "projectFilePath": "C:\\Nueva carpeta\\equipo-84-xx-main(1)\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Presentacion\\Proyectos.App.Presentacion.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\Documents\\Proyecto-GYM-main\\equipo-84-xx-main\\Proyectos.App\\Proyectos.App.Presentacion\\Proyectos.App.Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

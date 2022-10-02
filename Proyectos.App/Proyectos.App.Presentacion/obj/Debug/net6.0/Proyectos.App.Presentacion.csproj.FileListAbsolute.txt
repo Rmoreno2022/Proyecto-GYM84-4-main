@@ -136,14 +136,72 @@ C:\equipo-27-xx\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\refint
 C:\equipo-27-xx\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.pdb
 C:\equipo-27-xx\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.genruntimeconfig.cache
 C:\equipo-27-xx\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\ref\Proyectos.App.Presentacion.dll
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.csproj.AssemblyReference.cache
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.AssemblyInfoInputs.cache
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.AssemblyInfo.cs
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.csproj.CoreCompileInputs.cache
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.RazorAssemblyInfo.cache
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.RazorAssemblyInfo.cs
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.dll
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\refint\Proyectos.App.Presentacion.dll
-C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.pdb
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\appsettings.json
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Presentacion.staticwebassets.runtime.json
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Presentacion.exe
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Presentacion.deps.json
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Presentacion.runtimeconfig.json
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Presentacion.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Presentacion.pdb
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Dominio.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Persistencia.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Dominio.pdb
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\bin\Debug\net6.0\Proyectos.App.Persistencia.pdb
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.AssemblyInfo.cs
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.RazorAssemblyInfo.cache
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.RazorAssemblyInfo.cs
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\scopedcss\bundle\Proyectos.App.Presentacion.styles.css
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\scopedcss\projectbundle\Proyectos.App.Presentacion.bundle.scp.css
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.csproj.CopyComplete
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\refint\Proyectos.App.Presentacion.dll
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.pdb
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\Proyectos.App.Presentacion.genruntimeconfig.cache
+C:\Users\Rafael\Documents\Proyecto-GYM-main\equipo-84-xx-main\Proyectos.App\Proyectos.App.Presentacion\obj\Debug\net6.0\ref\Proyectos.App.Presentacion.dll
