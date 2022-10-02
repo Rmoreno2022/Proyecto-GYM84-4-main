@@ -1,0 +1,99 @@
+﻿@page
+@model Proyectos.App.Presentacion.Pages.Entrenadores.EditModel
+@{
+    ViewData["Title"] = "Editar Entrenador";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2 class="text-info">Actualizar Entrenador</h2>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div asp-validation-sumary="ModelOnly" class="text-danger">
+                <!-- se envía campo de la PK oculto -->
+                <input type="hidden"  asp-for="entrenador.id" />
+
+                <div class="container" style="padding: 50px">
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="entrenador.id" class="text-primary"></label>
+                            </div>
+                            <div class="col-sm-1">
+                                <input asp-for="entrenador.id" class="form-control" value="@Model.entrenador.id" disabled />
+                            </div>
+                            <span asp-validation-for="entrenador.id" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="entrenador.identificacion" class="text-primary"></label>
+                            </div>
+                            <div class="col-sm-3">
+                                <input asp-for="entrenador.identificacion" class="form-control" value=@Model.entrenador.identificacion />
+                            </div>
+                            <span asp-validation-for="entrenador.identificacion" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="entrenador.nombre" class="text-primary"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="entrenador.nombre" class="form-control" value=@Model.entrenador.nombre />
+                            </div>
+                            <span asp-validation-for="entrenador.nombre" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="entrenador.mail" class="text-primary"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="entrenador.mail" class="form-control" value=@Model.entrenador.mail />
+                            </div>
+                            <span asp-validation-for="entrenador.mail" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="entrenador.movil" class="text-primary"></label>
+                            </div>
+                            <div class="col-sm-3">
+                                <input asp-for="entrenador.movil" class="form-control" value=@Model.entrenador.movil />
+                            </div>
+                            <span asp-validation-for="entrenador.movil" class="text-danger"></span>
+                        </div>
+                    </div>                    
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="entrenador.vigente"  class=" text-primary"></label>
+                            </div>
+                            <div class="col-sm-3">                               
+                                <input class="form-check-input" type="checkbox" asp-for="entrenador.vigente" value=@Model.entrenador.vigente />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2 offset-sm-2"> 
+                                <input type="submit" value="Actualizar" class="btn btn-success form-control" />
+                            </div>
+                            <div class="col-sm-4">
+                                <a asp-page="List" class="btn btn-primary form-control">Volver a la Lista</a>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

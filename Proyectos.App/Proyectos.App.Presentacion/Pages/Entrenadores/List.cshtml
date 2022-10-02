@@ -1,0 +1,90 @@
+﻿@page
+@model Proyectos.App.Presentacion.Pages.Entrenadores.ListModel
+@{
+   ViewData["Title"] = "Lista de Entrenadores";
+}
+
+
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col-sm-6">
+                <h2><div class="text-info">Lista de Entrenadores</h2>
+            </div>
+            <div class="col-sm-3">
+                 <a class="btn btn-primary btn-sm" asp-page="./List">
+                        Listado Completo
+                 </a>
+            </div>
+            <div class="col-sm-3">
+                 <a class="btn btn-primary btn-sm" asp-page="./Crear">
+                        Crear Entrenador
+                 </a>
+            </div>               
+        </div>    
+    </div>
+    <div class="card-body">
+        <div>
+            <p>
+                @Html.ActionLink("Listado Completo", "./List")
+            </p>
+
+            @using (Html.BeginForm())
+            {
+                <p>
+                    Buscar x Identificación: @Html.TextBox("SearchString")  
+                    <input type="submit" value="Buscar" />
+                </p>
+            }
+        </div>
+        @if (Model.entrenadores.Count() > 0) { 
+            <br /><br />
+            <table class="table table-striped border">
+                <tr class="table-secondary">
+                    <th>@Html.DisplayNameFor(m => m.entrenadores.First().id)</th>
+                    <th>@Html.DisplayNameFor(m => m.entrenadores.First().identificacion)</th>
+                    <th>@Html.DisplayNameFor(m => m.entrenadores.First().nombre)</th>
+                    <th>@Html.DisplayNameFor(m => m.entrenadores.First().mail)</th>
+                    <th>@Html.DisplayNameFor(m => m.entrenadores.First().movil)</th>
+                    <th>@Html.DisplayNameFor(m => m.entrenadores.First().vigente)</th>
+                    <th colspan=3>ACCIONES</th>
+                </tr>
+                @foreach (var item in Model.entrenadores)  {
+                <tr>
+                    <td>@Html.DisplayFor(m => item.id)</td>
+                    <td>@Html.DisplayFor(m => item.identificacion)</td>
+                    <td>@Html.DisplayFor(m => item.nombre)</td>
+                    <td>@Html.DisplayFor(m => item.mail)</td>
+                    <td>@item.movil</td>
+                    <td>@Html.DisplayFor(m => item.vigente)</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" asp-page="./Details" asp-route-entrenadorId="@item.id">
+                            Detalle</a>
+                    </td>
+
+                    <td>
+                        <a class="btn btn-success btn-sm" asp-page="./Edit"    asp-route-entrenadorId="@item.id">
+                            <i class="bi-pencil-fill"></i>
+                            Editar
+                        </a>
+                    </td> 
+
+                    <td>                                                     
+                        <a class="btn btn-danger btn-sm" asp-page="./Delete"   asp-route-entrenadorId="@item.id">
+                            <i class="bi-trash-fill"></i>
+                            Eliminar
+                        </a>
+                    </td> 
+                </tr>    
+            }
+            </table>
+        }else{
+            <p>No hay Entrenadores disponibles</p>
+        }
+    </div>
+    </div>
+</div>
+
+
+
+

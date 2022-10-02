@@ -1,0 +1,48 @@
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.deps.json
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.dll
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.pdb
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.csproj.AssemblyReference.cache
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.AssemblyInfoInputs.cache
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.AssemblyInfo.cs
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.csproj.CoreCompileInputs.cache
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.dll
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\refint\Proyectos.App.Dominio.dll
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.pdb
+C:\equipo-84-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\ref\Proyectos.App.Dominio.dll
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.deps.json
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.dll
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.pdb
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.csproj.AssemblyReference.cache
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.AssemblyInfoInputs.cache
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.AssemblyInfo.cs
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.csproj.CoreCompileInputs.cache
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.dll
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\refint\Proyectos.App.Dominio.dll
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.pdb
+C:\equipo-27-xx\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\ref\Proyectos.App.Dominio.dll
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.deps.json
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.dll
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.pdb
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.dll
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\refint\Proyectos.App.Dominio.dll
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.pdb
+C:\Users\Rafael\Desktop\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\ref\Proyectos.App.Dominio.dll
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.deps.json
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.dll
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\bin\Debug\net6.0\Proyectos.App.Dominio.pdb
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.csproj.AssemblyReference.cache
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.AssemblyInfoInputs.cache
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.AssemblyInfo.cs
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.dll
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\refint\Proyectos.App.Dominio.dll
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\Proyectos.App.Dominio.pdb
+C:\Nueva carpeta\equipo-84-xx-main(1)\equipo-84-xx-main\Proyectos.App\Proyectos.App.Dominio\obj\Debug\net6.0\ref\Proyectos.App.Dominio.dll
